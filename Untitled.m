@@ -1,0 +1,9 @@
+RunMotors(Model,40,-40)
+tic
+pause(6.284650)
+toc
+RunMotors(Model,-40,-40)
+tic
+pause(14.215897)
+toc
+RunMotors(Model,0,0)
